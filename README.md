@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
+![](./design/desktop-preview.jpg)
 
 
 ### Links
 
-- Solution URL: [https://github.com/Surya8991/FrontEndMentor-results-summary-component](https://github.com/Surya8991/FrontEndMentor-results-summary-component)
-- Live Site URL: [https://frontendmentor-result-submissio-surya.netlify.app/](https://frontendmentor-result-submissio-surya.netlify.app/)
+- Solution URL: [https://github.com/Surya8991/FrontEndMentor-product-preview-card-component](https://github.com/Surya8991/FrontEndMentor-product-preview-card-component)
+- Live Site URL: [https://visionary-dieffenbachia-912345.netlify.app](https://visionary-dieffenbachia-912345.netlify.app/)
 
 ## My process
 
