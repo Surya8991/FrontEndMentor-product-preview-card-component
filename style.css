@@ -90,6 +90,11 @@ span{
     color: hsl(0, 0%, 100%);
     font-weight: 600;
 }
+.product-cart:hover{
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    background: hsla(212, 21%, 14%,90%);
+}
 .cart-img{
     padding-right: 10px;
 }
